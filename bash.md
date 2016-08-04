@@ -1,7 +1,7 @@
 # Google chrome
 
-download chrome from www.google.com/chrome
-install appropriate version
+Download chrome from www.google.com/chrome
+install appropriate version.
 
 # Terminator
 
@@ -9,7 +9,7 @@ install appropriate version
 
 keyboards>shortcuts>add custom shortcut>command=terminator, assign F1 key.
 
-# Atom editor.
+# Atom editor
 
 ```
 sudo add-apt-repository ppa:webupd8team/atom
@@ -27,3 +27,9 @@ echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sourc
 sudo apt-get update
 sudo apt-get install spotify-client
 ```
+
+
+# Oracle VirtualBox
+
+
+Download from here and install deb file - https://www.virtualbox.org/wiki/Linux_Downloads
